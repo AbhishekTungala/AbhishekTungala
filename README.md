@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekTungala
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning c-lang.
+- 🌱 I’m currently learning c,c++,HTML.
 - 📫 How to reach me on instagram @_.abhi._.1212._ 
 .
 
