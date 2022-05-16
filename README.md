@@ -37,7 +37,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 
 ---
 
-[![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=spyder15&theme=react-dark)](https://github.com/AbhishekTungala)
+[![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTungala&theme=react-dark)](https://github.com/AbhishekTungala)
 
 
 ### 📊 Some Fun Stats:
