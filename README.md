@@ -28,7 +28,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 
 ### Talking about Personal Stuffs:
 
-- 👋 Hi, I’m priyanshu
+- 👋 Hi, I’m AbhishekTungala
 - 👀 I’m currently partcipating in as much Hackathons as I can...
 - 👀 I’m interested in Data Science, Full Stack Web Development
 - 🌱 I’m currently learning Mern 🤟 ...
@@ -37,7 +37,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 
 ---
 
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=spyder15&theme=react-dark)](https://github.com/Spyder15)
+[![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=spyder15&theme=react-dark)](https://github.com/AbhishekTungala)
 
 
 ### 📊 Some Fun Stats:
