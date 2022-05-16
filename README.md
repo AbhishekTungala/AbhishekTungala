@@ -1,17 +1,3 @@
-- 👋 Hi, I’m @AbhishekTungala
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning c,c++,HTML.
-- 📫 How to reach me on instagram @_.abhi._.1212._ 
-.
-
-
-<!---
-AbhishekTungala/AbhishekTungala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekTungala&&show_icons=true&title_colour=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 ## Hello, I'm [AbhishekTungala!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
