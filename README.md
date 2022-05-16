@@ -64,8 +64,3 @@ ___
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-
-
-### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/spyder15/spyder15/blob/output/github-contribution-grid-snake.svg)
-
