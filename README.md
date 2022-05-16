@@ -30,7 +30,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 | ![image](https://github-readme-stats.vercel.app/api?username=AbhishekTungala&&show_icons=true&title_colour=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&theme=midnight-purple) | 
 | --- | --- |
 😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/priyanshumundra/count.svg) |
+![Visitor Count](https://profile-counter.glitch.me/AbhishekTungala/count.svg) |
 
 
 
