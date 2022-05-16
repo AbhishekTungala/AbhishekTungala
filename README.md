@@ -2,14 +2,12 @@
 ## Hello, I'm [AbhishekTungala!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
     
----
 
 
 ## Just a Introduction:
 
 Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science.
 
----
 
 ### Talking about Personal Stuffs:
 
@@ -19,7 +17,6 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 - 🌱 I’m currently learning Mern 🤟 ...
 - 💬 Ask me about anything, I am happy to help
 
----
 
 [![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTungala&theme=react-dark)](https://github.com/AbhishekTungala)
 
@@ -54,6 +51,7 @@ ___
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=algolia&no-frame=true"/>
 </a>
+
 ___ 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
