@@ -52,7 +52,7 @@ ___
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektungala1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekTungala)
 
-
+___ 
 
 
 <h2>🏆 Github Profile Trophy</h2>
@@ -60,7 +60,7 @@ ___
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=algolia&no-frame=true"/>
 </a>
 
-
+___ 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
