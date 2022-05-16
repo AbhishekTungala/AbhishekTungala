@@ -42,19 +42,6 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 | `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) |
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) |
 
-
-___  
-
-
-## Competitive Programming [here](https://www.google.com)
-- LeetCode : 51+ Problems (Data Structures and Algorithms)
-- Stopstalk Profile : All CP Profiles
-- CodeChef : 3 Star ⭐⭐⭐ 
-- Codeforces : Newbie 🤔
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=mundrapriyanshu15)
-                  
-
 ___  
 
 ### 🤝 Connect with me:
