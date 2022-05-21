@@ -20,6 +20,8 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 
 [![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTungala&theme=react-dark)](https://github.com/AbhishekTungala)
 
+https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS
+___
 
 ### 📊 Some Fun Stats:
 | ![image](https://github-readme-stats.vercel.app/api?username=AbhishekTungala&&show_icons=true&title_colour=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&theme=midnight-purple) | 
