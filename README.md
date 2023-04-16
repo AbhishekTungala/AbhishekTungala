@@ -22,10 +22,18 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 ___
 
 ### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=AbhishekTungala&&show_icons=true&title_colour=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&theme=midnight-purple) | 
-| --- | --- |
-😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/AbhishekTungala/count.svg) |
+<a href="https://github.com/AbhishekTungala/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/AbhishekTungala/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AbhishekTungala&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&layout=compact" />
+</div>
 ___ 
 
 ### 🍁 My Skill stack :
