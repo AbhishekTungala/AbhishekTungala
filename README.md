@@ -21,7 +21,6 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 ![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
 ___
 
-### 📊 Some Fun Stats:
 <a href="https://github.com/AbhishekTungala/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/AbhishekTungala/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=gruvbox&no-frame=true"/>
