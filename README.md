@@ -15,9 +15,6 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 - 🌱 I’m currently learning Mern 🤟 ...
 - 💬 Ask me about anything, I am happy to help
 
-
-[![Abhishek github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTungala&theme=react-dark)](https://github.com/AbhishekTungala)
-
 ![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
 ___
 
