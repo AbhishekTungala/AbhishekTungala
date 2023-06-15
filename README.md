@@ -4,7 +4,7 @@
     
 ## Just a Introduction:
 
-Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, India, currently 💻 doing my undergraduate BTECH (2nd year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science.
+Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, India, currently 💻 doing my undergraduate B.Tech from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science.
 
 
 ### Talking about Personal Stuffs:
