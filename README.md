@@ -11,7 +11,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 
 - 👋 Hi, I’m AbhishekTungala
 - 👀 I’m currently partcipating in as much Hackathons as I can...
-- 👀 I’m interested in Data Science & Ui/Ux Design
+- 👀 I’m interested in FrontEnd & UI/UX Designing, Data Science!
 - 🌱 I’m currently learning Men 🤟 ...
 - 💬 Ask me about anything, I am happy to help
 
