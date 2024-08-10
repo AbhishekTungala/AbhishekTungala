@@ -1,6 +1,6 @@
 
 ## Hello, I'm [AbhishekTungala!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=I'm+FrontEnd+&+Ui/Ux+Developer;and+Data+Analyst!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=I'm+FrontEnd,+Ui/Ux+Developer;and+Data+Analyst!)](https://git.io/typing-svg)
     
 ## Just a Introduction:
 
