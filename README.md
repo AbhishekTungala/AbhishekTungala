@@ -22,12 +22,6 @@ ___
 <a href="https://github.com/AbhishekTungala/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-<div align="center">
-  <a href="https://github.com/AbhishekTungala">
-  <img  src="https://github.com/AbhishekTungala/AbhishekTungala/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 ---
 
 <div>
