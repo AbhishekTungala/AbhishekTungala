@@ -23,7 +23,11 @@ ___
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-
+<div align="center">
+  <a href="https://github.com/AbhishekTungala">
+  <img  src="https://github.com/AbhishekTungala/AbhishekTungala/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 ---
 
 <div>
@@ -31,12 +35,6 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&layout=compact" />
 </div>
 ___ 
-<div align="center">
-  <a href="https://github.com/SaiAdithya3">
-  <img  src="https://github.com/SaiAdithya3/SaiAdithya3/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 ### 🍁 My Skill stack :
 
