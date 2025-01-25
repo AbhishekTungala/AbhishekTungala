@@ -14,6 +14,12 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 - 👀 I’m interested in FrontEnd & UI/UX Designing, Data Science!
 - 🌱 I’m currently learning Men 🤟 ...
 - 💬 Ask me about anything, I am happy to help
+  
+  <div align="center">
+  <a href="https://github.com/AbhishekTungala">
+  <img  src="https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
 ___
