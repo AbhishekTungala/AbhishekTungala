@@ -15,7 +15,7 @@ Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, I
 - 🌱 I’m currently learning Men 🤟 ...
 - 💬 Ask me about anything, I am happy to help
   
-![snake gif](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg)
 
 ![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
 ___
