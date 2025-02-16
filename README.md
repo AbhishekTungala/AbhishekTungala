@@ -27,7 +27,7 @@ ___
 ## 🏆 GitHub Achievements  
 
 <a href="https://github.com/AbhishekTungala/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&theme=flat&no-frame=true&no-bg=true&margin-w=5&margin-h=0&column=12" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=0&column=8" width="100%"/>
 </a>
 
 ___
