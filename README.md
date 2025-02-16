@@ -1,32 +1,36 @@
-
 ## Hello, I'm [AbhishekTungala!](https://google.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=I'm+a+FrontEnd+Developer+;+and+Data+Science+Enthusiast)](https://git.io/typing-svg).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=AWS+%26+Data+Science+Enthusiast+;+Frontend+%26+UI/UX+Developer)](https://git.io/typing-svg)
     
-## Just a Introduction:
+## About Me 🚀
 
-Hi, I'm Abhishek Tungala, A Student and Learner 🚀 from Hyderabad,Telangana, India, currently 💻 doing my undergraduate B.Tech from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science.
+Hi, I'm Abhishek Tungala, a passionate tech enthusiast from Hyderabad, Telangana, India. Currently pursuing my B.Tech at Lovely Professional University, I love exploring and learning new technologies beyond just Computer Science.
 
 
-### Talking about Personal Stuffs:
+### What I'm Up To 💡
 
-- 👋 Hi, I’m AbhishekTungala
-- 👀 I’m currently partcipating in as much Hackathons as I can...
-- 👀 I’m interested in FrontEnd & UI/UX Designing, Data Science!
-- 🌱 I’m currently learning Men 🤟 ...
-- 💬 Ask me about anything, I am happy to help
+- 🚀 Actively participating in hackathons to challenge myself and grow.
+- 🎨 Passionate about Frontend Development, UI/UX Design, Data Science, and Cloud Technologies.
+- 🌱 Currently enhancing my skills in AWS, Terraform, Machine Learning, Python, React, TailwindCSS, and JavaScript.
+- 💬 Always open to discussions—ask me anything, I'm happy to help!
   
 ![snake gif](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg)
 
 ![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=AbhishekTungala&color=green)
+![GitHub Stars](https://img.shields.io/github/stars/AbhishekTungala?affiliations=OWNER&style=flat-square&color=yellow)
+
 ___
 
-<a href="https://github.com/AbhishekTungala/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/AbhishekTungala/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&column=8&theme=gruvbox&no-frame=true"/>
-</a>
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTungala&theme=default&background=FFFFFF&ring=FF7C10&fire=FF7C10&currStreakLabel=FF7C10&sideNums=000000&sideLabels=000000&dates=000000&stroke=000000)
+___
 
-___ 
+## 🏆 GitHub Achievements  
+
+<a href="https://github.com/AbhishekTungala/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&theme=flat&no-frame=true&no-bg=true&margin-w=5&margin-h=0&column=12" width="95%"/>
+</a>
+
+___
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AbhishekTungala&count_private=true&include_all_commits=true" />
@@ -52,8 +56,11 @@ ___
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![REST API](https://img.shields.io/badge/REST%20API-005C97?style=plastic&logo=restapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=plastic&logo=huggingface&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
