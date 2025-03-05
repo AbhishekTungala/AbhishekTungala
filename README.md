@@ -1,4 +1,4 @@
-## Hello, I'm
+## Hello👋, I'm Tungala
 ![gitartwork](https://raw.githubusercontent.com/AbhishekTungala/GitArtwork/main/gitartwork.svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=AWS+%26+Data+Science+Enthusiast+;+Frontend+%26+UI/UX+Developer)](https://git.io/typing-svg)
     
