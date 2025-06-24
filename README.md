@@ -4,15 +4,19 @@
     
 ## About Me 🚀
 
-Hi, I'm Abhishek Tungala, a passionate tech enthusiast from Hyderabad, Telangana, India. Currently pursuing my B.Tech at Lovely Professional University, I love exploring and learning new technologies beyond just Computer Science.
+Hi, I'm Abhishek Tungala — a passionate tech enthusiast and **Cloud-Native Developer**. I’ve completed my B.Tech from Lovely Professional University and enjoy building scalable, resilient, and user-focused technology solutions.
 
+## Tech Stack 💻
 
-### What I'm Up To 💡
+**Cloud-Native Developer** (*AWS, Azure, Terraform*) | **ML & Data Science Practitioner** | **React + Tailwind Frontend Developer** | **UI/UX-Centric Solutions**
 
-- 🚀 Actively participating in hackathons to challenge myself and grow.
-- 🎨 Passionate about Frontend Development, UI/UX Design, Data Science, and Cloud Technologies.
-- 🌱 Currently enhancing my skills in AWS, Terraform, Machine Learning, Python, React, TailwindCSS, and JavaScript.
-- 💬 Always open to discussions—ask me anything, I'm happy to help!
+## What I'm Up To 💡
+
+- 🚀 Building and automating cloud-native applications.
+- 🎨 Crafting responsive, user-friendly frontends with clean design principles.
+- 📊 Exploring real-world applications of Machine Learning and Data Science.
+- 🌱 Continuously upskilling in AWS, Terraform, Machine Learning, Python, React, TailwindCSS, and JavaScript.
+- 💬 Always open to meaningful tech conversations — feel free to reach out, I’m happy to help!
   
 ![snake gif](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg)
 
