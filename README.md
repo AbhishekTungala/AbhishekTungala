@@ -1,84 +1,141 @@
+<div align="center">
+
+# 👋 Hello, I'm Tungala Abhishek
+
+> **Cloud & DevOps Engineer • Platform Engineer • AI Builder**
+
+<img src="https://raw.githubusercontent.com/AbhishekTungala/AbhishekTungala/main/assets/profile.png" width="180"/>
+
+> **⚠️ Replace the image URL above with your uploaded GitHub profile image (assets/profile.png).**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Google+Cloud;Terraform+%7C+Kubernetes+%7C+Docker;FastAPI+%7C+React+%7C+TypeScript;Platform+Engineering;AI+Cloud+Governance)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="28%" align="center">
+
+<img src="https://raw.githubusercontent.com/AbhishekTungala/AbhishekTungala/main/assets/profile.png" width="220"/>
+
+### Tungala Abhishek
+
+☁️ Cloud & DevOps Engineer
+
+🚀 AI Cloud Governance
+
+🌏 India
+
+</td>
+
+<td width="72%">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       SYSTEM PROFILE                                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║ Name            : Tungala Abhishek                                          ║
+║ Role            : Cloud & DevOps Engineer                                   ║
+║ Focus           : Platform Engineering • AI • FinOps                        ║
+║                                                                              ║
+║ OS              : Ubuntu • Windows 11 • Linux                               ║
+║ IDE             : VS Code • Cursor • IntelliJ                               ║
+║ Shell           : Bash • PowerShell                                         ║
+║                                                                              ║
+║ Cloud           : AWS • Azure • Google Cloud                                ║
+║ IaC             : Terraform • Bicep                                         ║
+║ Containers      : Docker • Kubernetes                                       ║
+║ CI/CD           : GitHub Actions • Azure DevOps                             ║
+║ Languages       : Python • Java • TypeScript • JavaScript                   ║
+║ Frontend        : React • TailwindCSS • Vite                                ║
+║ Backend         : FastAPI • Node.js                                         ║
+║ Database        : PostgreSQL • MySQL                                        ║
+║ AI              : OpenAI • MCP • LLMs                                       ║
+║                                                                              ║
+║ Current Work    : AI Cloud Governance Platform                              ║
+║                  FinOps Automation                                          ║
+║                  Infrastructure Security                                    ║
+║                  Kubernetes & SRE                                           ║
+║                                                                              ║
+║ Email           : abhishektungala1212@gmail.com                             ║
+║ GitHub          : github.com/AbhishekTungala                                ║
+║ LinkedIn        : linkedin.com/in/abhishek-tungala-bb46a2220                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Hello👋, I'm Tungala
+
 ![gitartwork](https://raw.githubusercontent.com/AbhishekTungala/GitArtwork/main/gitartwork.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=1CB843&lines=Cloud+%26+Data+Science+Enthusiast+;+Frontend+%26+UI/UX+Developer)](https://git.io/typing-svg)
-    
+
 ## About Me 🚀
 
-Hi, I'm Abhishek Tungala — a passionate tech enthusiast and **Cloud-Native Developer**. I’ve completed my B.Tech from Lovely Professional University and enjoy building scalable, resilient, and user-focused technology solutions.
+Hi, I'm Abhishek Tungala — a passionate **Cloud & DevOps Engineer** focused on Platform Engineering, Cloud Infrastructure, Kubernetes, Infrastructure as Code, FinOps and AI-powered cloud automation.
 
 ## Tech Stack 💻
 
-**Cloud-Native Developer** (*AWS, Azure, Terraform*) | **ML & Data Science Practitioner** | **React + Tailwind Frontend Developer** | **UI/UX-Centric Solutions**
+**Cloud** • AWS • Azure • Google Cloud
 
-## What I'm Up To 💡
+**DevOps** • Docker • Kubernetes • Terraform • GitHub Actions
 
-- 🚀 Building and automating cloud-native applications.
-- 🎨 Crafting responsive, user-friendly frontends with clean design principles.
-- 📊 Exploring real-world applications of Machine Learning and Data Science.
-- 🌱 Continuously upskilling in AWS, Terraform, Machine Learning, Python, React, TailwindCSS, and JavaScript.
-- 💬 Always open to meaningful tech conversations — feel free to reach out, I’m happy to help!
-  
-![snake gif](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg)
+**Backend** • FastAPI • Python • Node.js
 
-![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic&color=white=FOLLOWERS)
+**Frontend** • React • TailwindCSS • TypeScript
+
+**Database** • PostgreSQL • MySQL
+
+---
+
+## 🛠 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,bash,python,java,ts,js,react,nodejs,fastapi,postgres,mysql,git,github,vscode&perline=7"/>
+</p>
+
+---
+
+## 📈 GitHub
+
+![Followers](https://img.shields.io/github/followers/AbhishekTungala?style=plastic)
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhishekTungala&color=green)
-![GitHub Stars](https://img.shields.io/github/stars/AbhishekTungala?affiliations=OWNER&style=flat-square&color=yellow)
 
-___
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTungala)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTungala&theme=default&background=FFFFFF&ring=FF7C10&fire=FF7C10&currStreakLabel=FF7C10&sideNums=000000&sideLabels=000000&dates=000000&stroke=000000)
-___
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekTungala&show_icons=true&include_all_commits=true"/>
 
-## 🏆 GitHub Achievements  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&layout=compact"/>
 
-<a href="https://github.com/AbhishekTungala/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=0&column=8" width="100%"/>
-</a>
+---
 
-___
+## 🏆 GitHub Trophies
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AbhishekTungala&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTungala&layout=compact" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekTungala&theme=algolia&no-frame=true&column=7"/>
 
-___ 
+---
 
-### 🍁 My Skill stack :
+## 🐍 Contribution Snake
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![REST API](https://img.shields.io/badge/REST%20API-005C97?style=plastic&logo=restapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=plastic&logo=huggingface&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![snake](https://github.com/AbhishekTungala/AbhishekTungala/blob/output/github-snake.svg)
 
-___  
+---
 
-### 🤝 Connect with me:
+## 📜 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-tungala-bb46a2220)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishektungala)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.abhi._.1212._/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektungala1212@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekTungala)
-___ 
+- AWS Certified
+- Microsoft Azure Administrator
+- Google Cloud Professional Cloud Architect
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/AbhishekTungala
+- LinkedIn: https://linkedin.com/in/abhishek-tungala-bb46a2220
+- Email: abhishektungala1212@gmail.com
