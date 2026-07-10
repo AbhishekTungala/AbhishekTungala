@@ -4,7 +4,7 @@
 
 > **Cloud & DevOps Engineer • Platform Engineer • AI Builder**
 
-<img src="https://raw.githubusercontent.com/AbhishekTungala/AbhishekTungala/main/assets/profile.png" width="180"/>
+<img src="[https://raw.githubusercontent.com/AbhishekTungala/AbhishekTungala/main/assets/profile.png](https://drive.google.com/file/d/1RkqIBogvGaqsFBpFql6LAyTig8YFmr-H/view?usp=sharing)" width="180"/>
 
 > **⚠️ Replace the image URL above with your uploaded GitHub profile image (assets/profile.png).**
 
